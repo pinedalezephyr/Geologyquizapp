@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Geology quiz app</string>
+    <string name="question_1">1. Which one of these images is what Geologists would call Granite?</string>
+    <string name="question_2">2. Which one of these images is what a Geologist would call a fault?</string>
+    <string name="question_3">3. Check all the images that are called sandstone by a geologist.</string>
+    <string name="question_4">4. What is the area a Geologist studies called?</string>
+    <string name="question_5">5. Which one of these logos is still current?</string>
+    <string name="question_6">6. Whos logo is this logo supposed to be?</string>
+    <string name="question_7">7. Name this crystal:</string>
+</resources>
